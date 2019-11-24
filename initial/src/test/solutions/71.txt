@@ -1,0 +1,1 @@
+INT	int,ID	main,LB	(,RB	),LP	{,ID	inPut,LB	(,INTLIT	4,RB	),SM	;,RP	},RP	},<EOF>
